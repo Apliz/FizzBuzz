@@ -1,4 +1,5 @@
 def fizzbuzz(n)
+	
 	arr = []
 	(1..n).each{ |i|
 		if i % 3 == 0 && i % 5 == 0 then arr << "FizzBuzz"; next end
