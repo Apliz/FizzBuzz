@@ -4,8 +4,8 @@
 
 ## Usage
 
-Tested and designed for use in IRB and REPL
+Tested and designed for use in Interactive Ruby (IRB)
 
 ![alt text][demo]
 
-[demo]: https://github.com/Apliz/FizzBuzz/src/irb_demo.png "Demo"
+[demo]: https://github.com/Apliz/FizzBuzz/blob/master/src/irb_demo.png "Demo"
