@@ -25,10 +25,10 @@ fizzbuzz(15)
 
 ## User Stories
 
-As a fledgling developer,
-So that I improve my TDD practices,
+As a fledgling developer,  
+So that I improve my TDD practices,  
 All unit tests pass.
 
-As a user,
-So that I can learn to Fizz & Buzz,
+As a user,  
+So that I can learn to Fizz & Buzz,  
 I would like to generate the FizzBuzz sequence _to the Nth number_.
