@@ -27,4 +27,8 @@ fizzbuzz(15)
 
 As a fledgling developer,
 So that I improve my TDD practices,
+All unit tests pass.
+
+As a user,
+So that I can learn to Fizz & Buzz,
 I would like to generate the FizzBuzz sequence _to the Nth number_.
