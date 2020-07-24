@@ -1,11 +1,30 @@
-#  
+# FizzBuzz
 
- CL practice tool generating a fizzbuzz sequence array using TDD.
+IRB CL tool generating the fizzbuzz sequence
 
 ## Usage
 
-Tested and designed for use in Interactive Ruby (IRB)
+>Launch IRB
 
-![alt text][demo]
+```bash
+>$ irb
+```
 
-[demo]: https://github.com/Apliz/FizzBuzz/blob/master/src/irb_demo.png "Demo"
+>require file
+
+```bash
+>$ 2.7.0 :001 > require './path_to_file/fizzbuzz.rb'
+```
+
+The `fizzbuzz` method takes any _integer_ as parameter and will output the fizzbuzz array up to that integer.
+
+```ruby
+fizzbuzz(15)
+#output -> [1, 2, "Fizz", 4, "Buzz", "Fizz", ... , 14, "FizzBuzz"]
+```
+
+## User Stories
+
+As a fledgling developer,
+So that I improve my TDD practices,
+I would like to generate the FizzBuzz sequence _to the Nth number_.
